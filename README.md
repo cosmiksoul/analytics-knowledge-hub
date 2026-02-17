@@ -17,7 +17,7 @@ This repository is a curated collection of **technical blueprints, optimization 
 
 ## What’s Inside
 
-### 🛠 SQL & Data Engineering
+### SQL & Data Engineering
 * **Optimization:** Query performance patterns for **BigQuery** and **ClickHouse**.
 * **Window Functions:** Reference guides for complex time-series and cohort calculations.
 * **Data Modeling:** dbt patterns and scalable data warehousing architecture basics.
