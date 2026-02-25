@@ -1,8 +1,6 @@
-# The Analytics Playbook: Scaling Teams & Technical Excellence
+# The Analytics Knowledge Hub
 
-**A strategic framework for standardizing data operations, accelerating team upskilling, and ensuring technical rigor.**
-
-This repository is a curated collection of **technical blueprints, optimization patterns, and reference guides**. 
+This repository is a collection of **technical blueprints, optimization patterns, and reference guides**. 
 ---
 
 ## The Purpose
@@ -12,4 +10,4 @@ This repository is a curated collection of **technical blueprints, optimization 
 * **Operational Efficiency:** Reducing "syntax research" time, allowing the team to focus on strategic insights rather than documentation lookups.
 ---
 
-**Curated and Maintained by [Kanstantsin Hupalau](https://www.linkedin.com/in/konstantin-gupalov/)** *Strategic Analytics Leader | Head of Analytics*
+**Curated  by [Kanstantsin Hupalau](https://www.linkedin.com/in/konstantin-gupalov/)** 
